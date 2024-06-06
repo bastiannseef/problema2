@@ -1,1 +1,2 @@
 "Archivo que utilizaremos para revertir OwO" 
+"Generando m s cambios: A, B y C" 
